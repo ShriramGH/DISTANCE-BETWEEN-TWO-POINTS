@@ -10,6 +10,8 @@ Enter the coordinates of point one and two in the input
 ### Step 3: 
 Substitute the values in the distance formula
 
+![](formula.JPG)
+
 ### Step 4:
 Print the distance using the formula
 ### Step 5: 
